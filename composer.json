@@ -1,0 +1,25 @@
+{
+    "name": "annanow/annanow",
+    "type": "library",
+    "description": "Annanow PHPLib",
+    "keywords": [
+        "payment",
+        "gateway"
+    ],
+    "license": "MIT",
+    "homepage": "https://www.annanow.com/",
+    "authors": [
+        {
+            "name": "Annanow",
+            "homepage": "https://www.annanow.com/"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Annanow": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.4"
+    }
+}
